@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Give your app a title
-st.title("Your title")
+st.title("Your title goes here")
 
 # Header
 st.header("Main header")
